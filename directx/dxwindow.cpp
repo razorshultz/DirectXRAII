@@ -42,7 +42,7 @@ dxwindow::dxwindow(HINSTANCE hInstance)
 }
 dxwindow::~dxwindow()
 {
-
+	////
 }
 
 
